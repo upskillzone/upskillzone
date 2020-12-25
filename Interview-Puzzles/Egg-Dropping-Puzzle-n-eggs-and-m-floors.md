@@ -3,6 +3,7 @@ layout: default
 title: Egg Dropping Puzzle - n eggs and m floors
 parent: Interview Puzzles
 nav_order: 1
+nav_exclude: true
 ---
 
 # Egg Dropping Puzzle - n eggs and m floors
