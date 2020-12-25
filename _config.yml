@@ -21,8 +21,8 @@
 title: Upskill Zone
 email: upzkillzone@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Programmer's Zone to Upskill the Puzzle solving, Algorithm
-  and Programming Skills.
+  Software Programmer's zone to Upskill the Puzzle solving and Problem
+  solving Skills.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
