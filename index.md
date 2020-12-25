@@ -1,7 +1,9 @@
 ---
 layout: home
+title: Home
 description: "upskillzone is a Software Programmer's zone to upskill the
 Puzzle solving and Problem solving skills"
+nav_exclude: true
 ---
 
 Up skill zone is a Software Programmer's zone to upkill the Puzzle solving
