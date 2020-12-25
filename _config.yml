@@ -54,5 +54,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+exclude:
+  - README.md
 # just-the-docs theme configuration
 color_scheme: dark
