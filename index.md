@@ -6,7 +6,7 @@ Puzzle solving and Problem solving skills"
 nav_exclude: true
 ---
 
-Up skill zone is a Software Programmer's zone to upkill the Puzzle solving
+Up skill zone is a Software Programmer's zone to upskill the Puzzle solving
 and Problem solving skills to crack any kind of interviews. And also helps
 interviewer to assess candidate's skill with tough and challenging Programming 
 questions.
