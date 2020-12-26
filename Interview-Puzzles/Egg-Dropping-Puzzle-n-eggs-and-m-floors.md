@@ -26,7 +26,7 @@ below floors.
 - Similarly if the egg breaks at a certain floor means, it will break on 
 all the above floors.
 
-## Solution
+## 1. Solution
 Simplest and unoptimal solution comes to mind immediatly is just take one of
 the egg and keep dropping from floor *1* to *m*. Continue this process on
 each floor till the egg breaks. Once the egg breaks the safest floors are found.
@@ -43,7 +43,7 @@ eggs are more than one.
 - Once the remaining egg is only one, then stop Binary Search and start Linear
 Search.
 
-## Algorithm Pseudocode
+## 2. Algorithm Pseudocode
 ```
 uint32_t find_safest_floors(uint32_t n_eggs, uint32_t m_floors)
 {
@@ -96,7 +96,7 @@ uint32_t find_safest_floors(uint32_t n_eggs, uint32_t m_floors)
 }
 ```
 
-## Complete Implementation in C Language
+## 3. Complete Implementation in C Language
 ```
 #include <stdio.h>
 #include <stdint.h>
@@ -230,7 +230,7 @@ int main(int argc, char *argv[])
 }
 ```
 
-## Output
+## 4. Output
 - Below is the operation of the algorithm for **10 floors and 5 eggs** with 
 the safest floor 4.
 
