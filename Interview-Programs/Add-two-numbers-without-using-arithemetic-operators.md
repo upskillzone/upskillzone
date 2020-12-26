@@ -10,7 +10,7 @@ nav_exclude: true
 Need to add two number without using arithemetic operators like `+`, `-`, `*`,
 `/`, `%`.
 
-## Solution
+## 1. Solution
 Adding two number without using arithmetic operators can be performed using
 binary operators XOR (`^`) and AND (`&`).
 1. First two number is XORed and stored the result in `sum` variable.
@@ -36,7 +36,7 @@ Now redoing 1st and 2nd operation with first number as `2` and 2nd number as `8`
 will get `10` as part of 1st operation. And `0` as part of 2nd operation. The
 execution ends once the 2nd operation (carry generation) returns 0.
 
-## Algorithm Pseudocode
+## 2. Algorithm Pseudocode
 
 ```
 int add(int num1, int num2)
