@@ -58,3 +58,9 @@ exclude:
   - README.md
 # just-the-docs theme configuration
 color_scheme: dark
+
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+ga_tracking: G-Y97196DR8X
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
+
