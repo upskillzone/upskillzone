@@ -8,13 +8,13 @@ nav_exclude: true
 
 # Egg Dropping Puzzle - n eggs and m floors
 Given *n* number of Eggs are identical in dimension and there is a multistorey
-building with *m* floors. In this building initial few floors will be safe 
+building with *m* floors. In that building only initial few floors will be safe
 for Dropping Eggs, which means egg wont break when it is dropped. After that
-floor, all above floors are unsafe for Egg Dropping.
+all above floors are unsafe for Egg Dropping.
 
 **The Puzzle is to
 find till which number of floors, dropping egg is safest with optimal number of 
-drops ?**
+tries (dropping eggs) ?**
 - *n* number of eggs are given. All of the eggs are allowed to break in the
 process of solving this Puzzle.
 - Optimial solution for this Puzzle should be with less number of drops.
@@ -25,6 +25,8 @@ optimality.
 below floors.
 - Similarly if the egg breaks at a certain floor means, it will break on 
 all the above floors.
+- The eggs that are not broken on a drop can be reused to drop on another
+attempt.
 
 ## 1. Solution
 Simplest and unoptimal solution comes to mind immediatly is just take one of
@@ -37,7 +39,8 @@ To get optimal results, need to pick the floor based on Binary Search (also
 called as Logarithmic Search). But this has a risk of breaking all eggs
 before finding the results.
 
-So the Optimal Solution can be achieved by combining Binary and Linear Search.
+So the Optimal Solution can be achieved by combining both Binary and Linear
+Search.
 - Pick the floors based on Binary Search and drop the egg till the remainings
 eggs are more than one.
 - Once the remaining egg is only one, then stop Binary Search and start Linear
