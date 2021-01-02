@@ -46,7 +46,14 @@ eggs are more than one.
 - Once the remaining egg is only one, then stop Binary Search and start Linear
 Search.
 
+### 1.2 Detailed Solution explanation with Youtube Video
+- In below Youtube video, I have explained this puzzle solution with examples.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q9fwrjU0Aso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 2. Algorithm Pseudocode
+- Algorithm pseudocode for the above explained solution is given below.
+
 ```
 uint32_t find_safest_floors(uint32_t n_eggs, uint32_t m_floors)
 {
