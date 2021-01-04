@@ -23,7 +23,7 @@
 ### 2.1 Gems installed path
 - All gems are installed on `vendor/bundle` path, as it is configured in
 `.bundle/config` file.
-- Config in `./bundle/config` is
+- Config in `./.bundle/config` is
 ```
 ---
 BUNDLE_SET: "vendor/bundle"
