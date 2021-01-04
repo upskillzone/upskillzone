@@ -294,3 +294,6 @@ Check among floors between 4 and 4 with 1 eggs
  - 4 is safe floor
 It took 5 checks to find safest floor 4 out of 10 floors with 2 eggs
 ```
+
+Above program is archived in the github [repo](https://github.com/upskillzone/upskillzone-programs/tree/main/puzzles/egg-dropping-puzzle)
+with detailed explanation of how to use it.
