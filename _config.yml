@@ -70,3 +70,6 @@ color_scheme: dark
 ga_tracking: G-Y97196DR8X
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 
+author:
+  name  : "Ashok Karmegam"
+  bio   : "Software Programmer"
