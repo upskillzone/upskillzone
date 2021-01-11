@@ -34,8 +34,9 @@ theme: just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-news-sitemap
-  - jekyll-last-modified-at
+  - jekyll-last-modified-at # Adds last modified to sitemap
+
+#  - jekyll-news-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
