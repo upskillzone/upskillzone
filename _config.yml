@@ -73,3 +73,20 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 author:
   name  : "Ashok Karmegam"
   bio   : "Software Programmer"
+
+collections:
+  tutorials:
+    permalink: "/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    tutorials:
+      name: Tutorials
+
+feed:
+  path: "site-feed.xml"
+  collections:
+    tutorials:
+      path: "feed.xml"
+
