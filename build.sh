@@ -10,6 +10,7 @@ if [ -f "${DUMMY_FEED}" ]; then
 fi
 
 SITE_REPO=../upskillzone.github.io
-if [ -d "$SITE_REPO" ]; then
-    cp _site/* "$SITE_REPO" -rf
+if [ -d "${SITE_REPO}" ]; then
+    rm ${SITE_REPO}/* -rf
+    cp _site/* "${SITE_REPO}" -rf
 fi
