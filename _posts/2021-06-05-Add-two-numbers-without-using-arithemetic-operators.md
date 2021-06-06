@@ -10,7 +10,6 @@ tags:
     - interview questions
 ---
 
-# Add two numbers without using arithmetic operators
 Need to add two number without using arithemetic operators like `+`, `-`, `*`,
 `/`, `%`.
 

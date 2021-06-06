@@ -10,7 +10,6 @@ tags:
     - interview questions
 ---
 
-# Swap two numbers without using temporary variable
 Swapping two numbers need a temporary variable like mentioned below.
 ```
 tmp = num1;

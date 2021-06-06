@@ -10,7 +10,6 @@ tags:
     - interview questions
 ---
 
-# Egg Dropping Puzzle - n eggs and m floors
 Given *n* number of Eggs are identical in dimension and there is a multistorey
 building with *m* floors. In that building only initial few floors will be safe
 for Dropping Eggs, which means egg wont break when it is dropped. After that
