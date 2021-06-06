@@ -10,7 +10,6 @@ tags:
     - interview questions
 ---
 
-# 100 Monkeys and Doors Puzzle
 There are 100 doors in a row, all of them are initially in closed state. And
 there are 100 monkeys (or 100 People) as well. All monkeys walks through all
 the doors one by one. Each monkey toggles the door (that means, closing if the

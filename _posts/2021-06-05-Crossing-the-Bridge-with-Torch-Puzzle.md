@@ -10,7 +10,6 @@ tags:
     - interview questions
 ---
 
-# Crossing the Bridge with Torch Puzzle
 Few people are trying to cross an old and rusty bridge in a night. Conditions
 for crossing the bridge are
 - Only 2 person can be on the bridge at a time.
