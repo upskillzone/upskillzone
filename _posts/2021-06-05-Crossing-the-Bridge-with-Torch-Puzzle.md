@@ -1,9 +1,13 @@
 ---
-layout: default
-title: Crossing the Bridge with Torch Puzzle
-parent: Interview Puzzles
-nav_order: 2
-nav_exclude: true
+layout: post
+date:   2021-06-05 00:18:00 +0530
+title:  Crossing the Bridge with Torch Puzzle
+author: Ashok Karmegam
+categories:
+    - puzzles
+tags:
+    - puzzle
+    - interview questions
 ---
 
 # Crossing the Bridge with Torch Puzzle

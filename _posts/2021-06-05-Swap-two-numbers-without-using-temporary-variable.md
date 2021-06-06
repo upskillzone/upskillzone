@@ -1,9 +1,13 @@
 ---
-layout: default
-title: Swap two numbers without using temporary variable
-parent: Interview Programs
-nav_order: 2
-nav_exclude: true
+layout: post
+date:   2021-06-05 00:18:00 +0530
+title:  Swap two numbers without using temporary variable
+author: Ashok Karmegam
+categories:
+    - programs
+tags:
+    - program
+    - interview questions
 ---
 
 # Swap two numbers without using temporary variable

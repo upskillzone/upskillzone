@@ -1,9 +1,13 @@
 ---
-layout: default
-title: Add two numbers without using arithmetic operators
-parent: Interview Programs
-nav_order: 1
-nav_exclude: true
+layout: post
+date:   2021-06-05 00:18:00 +0530
+title:  Add two numbers without using arithmetic operators
+author: Ashok Karmegam
+categories:
+    - programs
+tags:
+    - program
+    - interview questions
 ---
 
 # Add two numbers without using arithmetic operators

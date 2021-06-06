@@ -1,9 +1,13 @@
 ---
-layout: default
-title: 100 Monkeys and Doors Puzzle
-parent: Interview Puzzles
-nav_order: 3
-nav_exclude: true
+layout: post
+date:   2021-06-06 00:18:00 +0530
+title:  100 Monkeys and Doors Puzzle
+author: Ashok Karmegam
+categories:
+    - puzzles
+tags:
+    - puzzle
+    - interview questions
 ---
 
 # 100 Monkeys and Doors Puzzle
